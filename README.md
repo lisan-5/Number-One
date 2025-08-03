@@ -1,6 +1,6 @@
 # Number One Brand E-Commerce Application
 
-An open-source Laravel 12.x e-commerce storefront for shoes and accessories, styled with Tailwind CSS and powered by Vite and Alpine.js. It features product listing, sorting, filtering, a dedicated product detail carousel, cart & wishlist functionality, user authentication & profiles, order checkout, and an admin dashboard with real-time cache flushing.
+ALaravel e-commerce storefront for shoes and accessories, styled with Tailwind CSS and powered by Vite and Alpine.js. It features product listing, sorting, filtering, a dedicated product detail carousel, cart & wishlist functionality, user authentication & profiles, order checkout, and an admin dashboard with real-time cache flushing.
 
 ---
 
