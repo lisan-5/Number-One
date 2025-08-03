@@ -1,0 +1,20 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-AGSrWToU.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/images/Number One logo.png": {
+    "file": "assets/Number One logo-BcBe4yFE.png",
+    "src": "resources/images/Number One logo.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DtCVKgHt.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
