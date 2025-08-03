@@ -39,9 +39,14 @@ An open-source Laravel 12.x e-commerce storefront for shoes and accessories, sty
 ## Tech Stack
 
 - PHP 8.2 & Laravel 12.x
+- Laravel Breeze for authentication scaffolding
+- Laravel Sanctum for API authentication and SPA token management
+- Spatie Laravel Permission for roles and permissions
+- Filament Admin Panel for backend management
 - Tailwind CSS & Vite
 - Alpine.js for frontend interactions
 - Blade components for layouts & navigation
+- Mailtrap for email testing
 - MySQL (or any supported relational database)
 - PHPUnit for automated testing
 
